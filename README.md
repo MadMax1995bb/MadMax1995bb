@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @MadMax1995bb. Call me Max :)
-- 👀 I’m interested in Sports, DJing and TEC.
-- 🌱 I’m currently learning machine learning and deep learning algorythms and how to apply them.
-- 💞️ I’m looking to collaborate on business projects. I am open to work. 
-- 📫 How to reach me: Maxburger95@gmx.de or on linkedIn.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: Love running when it rains heavily :))
+# 👋 Hi there! I'm Max (aka @MadMax1995bb)
 
-I have several years of experience in finance and risk management and I'm thrilled to say that I started the Le Wagon Bootcamp to change my professional perspective. I'm loving the change in industry and the move from the classic business departments to the technical teams – it's already been a lot of fun and it's really driving my passion forward!
+- 👀 **Interests**: Sports, DJing, and TEC.  
+- 🌱 **Currently Learning**: Machine learning and deep learning algorithms and their practical applications.  
+- 💼 **Open to Work**: I'm looking to collaborate on business projects and am open to exciting opportunities.  
+- 📫 **Reach Me**: [Maxburger95@gmx.de](mailto:Maxburger95@gmx.de) or on [LinkedIn](https://www.linkedin.com/in/maximilian-andreas-burger/).  
+- 😄 **Pronouns**: He/Him.  
+- ⚡ **Fun Fact**: I love running in heavy rain – it's the best way to clear my mind!  
+
+---
+
+## About Me  
+I have several years of experience in **finance** and **risk management**, but I recently embarked on a transformative journey to reshape my professional path. After joining the **Le Wagon Bootcamp**, I fell in love with the tech industry and transitioned from traditional business departments to **technical teams**.  
+
+This change has been exhilarating, fueling my passion for solving problems using data and technology. I'm now working on exciting projects in **machine learning**, **time series analysis**, and **deep learning**, and I can't wait to keep growing in this dynamic field.
+
+---
+
+## Let’s Connect!  
+- **Email**: [Maxburger95@gmx.de](mailto:Maxburger95@gmx.de)  
+- **LinkedIn**: [Maximilian Andreas Burger](https://www.linkedin.com/in/maximilian-andreas-burger/)  
+
+Looking forward to collaborating and creating something amazing together!
+
 
 <!---
 MadMax1995bb/MadMax1995bb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
